@@ -1,8 +1,9 @@
-header{
-  position: relative;
+header, footer{
   display: flex;
+  height: 80px;
   align-items: center;
   justify-content: center;
+  vertical-align: middle;
   backdrop-filter: blur(10px);
   background-color: #00000017;
 }
